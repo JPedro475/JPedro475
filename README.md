@@ -1,6 +1,5 @@
 ### Olá eu sou João Pedro
-- 📚 Estudando Python
-- 😁 Quero trabalhar como game dev ou programação back-end
+
 
 <div>
   <a href="https://github.com/JPedro475">
