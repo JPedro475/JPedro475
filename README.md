@@ -1,9 +1,10 @@
 <h1 align="center">Olá 👋 meu nome é João Pedro</h1>
-<h3 align="center">Eu sou um entusiasta em programação de jogos e atualmente estou aprendendo backend</h3>
+<h3 align="center">Eu sou um entusiasta em programação de jogos e estou aprendendo backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpedro475&label=Profile%20views&color=0e75b6&style=flat" alt="jpedro475" /> </p>
 
-- 🌱 Atualmente estou aprendendo **C#, Unity e Java**
+- 🌱 Atualmente estou aprendendo backend **Java, PostgreSQL e Spring Boot**
+- 🎮 Desenvolvendo jogos com **Unity e GameMaker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
