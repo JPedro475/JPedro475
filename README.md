@@ -1,8 +1,6 @@
 <h1 align="center">Olá meu nome é João Pedro 👋 </h1>
 <h3 align="center">🎮 Entusiasta por desenvolvimento de jogos e explorando o mundo do backend para criar soluções completas. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpedro475&label=Profile%20views&color=0e75b6&style=flat" alt="jpedro475" /> </p>
-
 - 🌱 Desenvolvendo backend com **Java, Spring Boot, C#, PostgreSQL**
 - 🎮 Desenvolvendo jogos com **Unity e GameMaker**
 
